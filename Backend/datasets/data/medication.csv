@@ -1,0 +1,210 @@
+medication_id,name,description,price
+1,Amitriptyline,10 mg Tablet,14.10
+2,Amitriptyline,25 mg Tablet,49.96
+3,Amlodipine,10 mg Tablet,16.94
+4,Amlodipine,5 mg Tablet,18.52
+5,Alendronic Acid,70 mg Tablet,42.13
+6,Alfacalcidol,0.25 mcg Capsule,92.93
+7,Alfacalcidol,0.25 mcg Tablet,57.81
+8,Alfuzosin Hydrochloride,10 mg Tablet,82.40
+9,Allopurinol,100 mg Tablet,96.28
+10,Allopurinol,300 mg Tablet,46.22
+11,Amiodarone Hydrochloride,200 mg Tablet,54.09
+12,Apixaban,2.5 mg Tablet,97.26
+13,Apixaban,5 mg Tablet,24.24
+14,Aspirin,100 mg Tablet,17.17
+15,Atenolol,100 mg Tablet,41.77
+16,Atenolol,50 mg Tablet,15.73
+17,Atorvastatin,10 mg Tablet,45.99
+18,Atorvastatin,20 mg Tablet,16.97
+19,Atorvastatin,40 mg Tablet,67.74
+20,Beclomethasone,250 mcg/dose inhaler,66.82
+21,Beclomethasone dipropionate,50 mcg/dose inhaler,27.66
+22,Benzhexol hydrochloride,2 mg tablet,60.62
+23,Betamethasone (as Valerate),0.025% Cream,45.48
+24,Betamethasone (as Valerate),0.05% Cream,54.58
+25,Betamethasone (as Valerate),0.05% Ointment,53.95
+26,Betamethasone (as Valerate),0.1% Cream,42.67
+27,Betamethasone (as Valerate),0.1% Ointment,14.72
+28,Betamethasone (as Valerate),0.1% Scalp lotion,71.55
+29,Bisoprolol Fumarate,2.5 mg Tablet,92.41
+30,Bisoprolol Fumarate,5 mg Tablet,90.99
+31,Calcitriol,0.25 mcg Capsule,19.33
+32,Calcium Acetate,667 mg Tablet,76.28
+33,Calcium Carbonate,1.25 g Chewable tablet,62.00
+34,Calcium Carbonate,450 mg + Colecalciferol 5 mcg Tablet,65.54
+35,Calcium Carbonate,625 mg Tablet,88.72
+36,Carbamazepine,200 mg Controlled-release tablet,24.42
+37,Carbamazepine,200 mg Tablet,20.27
+38,Carvedilol,25 mg Tablet,78.26
+39,Carvedilol,6.25 mg Tablet,40.95
+40,Chlorpheniramine,4 mg tablet,99.04
+41,Chlorpromazine,100 mg Tablet,94.13
+42,Chlorpromazine,25 mg Tablet,75.63
+43,Clobetasol propionate,0.05% Cream,70.22
+44,Clobetasol propionate,0.05% Ointment,60.21
+45,Clomipramine,25 mg Tablet,23.30
+46,Clopidogrel,75 mg Tablet,87.74
+47,Coal Tar,10% Cream,43.63
+48,Coal Tar,25% Shampoo,14.02
+49,Coal Tar,5% Cream,20.33
+50,Colchicine,500 mcg Tablet,82.72
+51,Colecalciferol,"1,000 units Tablet",70.66
+52,Colestyramine,4 g Powder for oral suspension,76.62
+53,Cyanocobalamin,1 mg/mL Injection,14.38
+54,Diclofenac Sodium,25 mg Enteric-coated tablet,90.60
+55,Digoxin,250 mcg Tablet,30.30
+56,Digoxin,62.5 mcg Tablet,15.92
+57,Diltiazem Hydrochloride,100 mg Sustained-release capsule,76.46
+58,Diltiazem Hydrochloride,200 mg Sustained-release capsule,30.46
+59,Diltiazem Hydrochloride,30 mg Tablet,44.90
+60,Diltiazem Hydrochloride,60 mg Tablet,55.16
+61,Diltiazem Hydrochloride,90 mg Sustained-release capsule,14.70
+62,Dipyridamole,25 mg Tablet,88.56
+63,Dipyridamole,75 mg Tablet,15.57
+64,Donepezil Hydrochloride,10 mg Tablet,74.52
+65,Donepezil Hydrochloride,5 mg Tablet,87.92
+66,Dutasteride,0.5 mg Capsule,62.57
+67,Empagliflozin,10mg Tablet,41.87
+68,Empagliflozin,25mg Tablet,46.93
+69,Emulsifying Ointment,,51.22
+70,Enalapril Maleate,10 mg Tablet,32.11
+71,Enalapril Maleate,20 mg Tablet,43.80
+72,Enalapril Maleate,5 mg Tablet,14.75
+73,Etoricoxib,90 mg Tablet,40.74
+74,Etoricoxib,60 mg Tablet,43.70
+75,Ezetimibe,10 mg Tablet,47.01
+76,Fenofibrate,100 mg Capsule,82.50
+77,Fenofibrate,300 mg Capsule,42.98
+78,Ferrous Gluconate,250 mg + Vit B12 7.5 mcg + Vit C 50 mg + Folic Acid 1 mg + Sorbitol 25 mg + Copper Sulfate 200 mcg + Manganese Sulfate 200 mcg Capsule,32.31
+79,Fludrocortisone Acetate,0.1 mg Tablet,40.20
+80,Fluoxetine,10 mg Capsule,98.29
+81,Fluoxetine,20 mg Capsule,74.30
+82,Fluticasone Propionate,125 mcg/dose Inhaler,41.36
+83,Fluticasone Propionate,50 mcg/dose Inhaler,71.24
+84,Fluvoxamine Maleate,50 mg Tablet,48.48
+85,Fluticasone Furoate,100mcg/dose + Vilanterol 25mcg/dose (Relvar Ellipta) (30 inhalations) ,71.06
+86,Fluticasone Furoate,200mcg/dose + Vilanterol 25mcg/dose (Relvar Ellipta) (30 inhalations),29.21
+87,Formoterol fumarate dihydrate,2.25 mcg/dose + budesonide 80 mcg/dose (Symbicort) Rapihaler (120 doses),62.79
+88,Formoterol fumarate dihydrate,4.5 mcg/dose + budesonide 160 mcg/dose (Symbicort) Turbuhaler (120 doses),87.40
+89,Formoterol fumarate dihydrate,4.5 mcg/dose + budesonide 160 mcg/dose (DuoResp) Spiromax (120 doses),51.74
+90,Furosemide,40 mg Tablet,28.77
+91,Gabapentin,100 mg Capsule,37.26
+92,Gabapentin,300 mg Capsule,36.71
+93,Gemfibrozil,300 mg Capsule,16.55
+94,Gliclazide,80 mg Tablet,67.56
+95,Glipizide,5 mg Tablet,89.38
+96,Glyceryl Trinitrate,0.5 mg Sublingual tablet,72.72
+97,Haloperidol,1.5 mg Tablet,12.26
+98,Haloperidol,5 mg Tablet,39.86
+99,Haloperidol,5 mg/mL Injection,98.38
+100,Hydralazine Hydrochloride,10 mg Tablet,78.32
+101,Hydralazine Hydrochloride,25 mg Tablet,78.42
+102,Hydralazine Hydrochloride,50 mg Tablet,89.65
+103,Hydrochlorothiazide,25 mg Tablet,38.62
+104,Hydrocortisone,10 mg Tablet,88.55
+105,Indometacin,25 mg Capsule,20.69
+106,Insulin Aspart (Novorapid),"100 international units/mL Injection, prefilled pen",64.99
+107,Insulin Aspart,"30% + Insulin Aspart Protamine 70%  (Novomix) 100 international units/mL Injection, prefilled pen",27.22
+108,Insulin Detemir (Levemir),"100 international units/mL Injection, prefilled pen",61.01
+109,Insulin Glargine (Lantus),"100 international units/mL Injection, prefilled pen",53.99
+110,Insulin Glulisine (Apidra),"100 international units/mL Injection, prefilled pen",81.31
+111,Insulin Isophane (Human) (Insulatard),100 international units/mL Injection vial,98.66
+112,Insulin lispro,"25% + Insulin lispro Protamine 75% (HumalogMix 25) 100 international units/mL Injection, penfill",32.41
+113,Insulin Soluble (Human) (Actrapid),100 international units/mL Injection vial,42.71
+114,Insulin Soluble,30% + Insulin Isophane 70% (Mixtard) 100 international units/mL Injection vial,46.44
+115,Ipratropium Bromide,0.025% Nebulisation solution,91.27
+116,Ipratropium Bromide,20 mcg/dose Inhaler,57.14
+117,Iron (as Polymaltose),100 mg Capsule,57.77
+118,Iron (as Polymaltose),100 mg Tablet,82.54
+119,Iron (as Polymaltose),50 mg/mL Oral drops,97.38
+120,Isosorbide Dinitrate,10 mg Tablet,75.85
+121,Isosorbide Mononitrate,60 mg Sustained-release tablet,97.50
+122,Levetiracetam,500 mg Tablet,63.20
+123,Levodopa,100 mg + Benserazide 25 mg Capsule,77.80
+124,Levodopa,100 mg + Benserazide 25 mg Controlled-release capsule,22.72
+125,Levodopa,100 mg + Carbidopa 25 mg Tablet,11.78
+126,Levodopa,200 mg + Benserazide 50 mg Tablet,36.60
+127,Levodopa,250 mg + Carbidopa 25 mg Tablet,23.76
+128,Lisinopril,10 mg Tablet,77.24
+129,Lisinopril,20 mg Tablet,25.08
+130,Lisinopril,5 mg Tablet,16.28
+131,Loratadine,10 mg Tablet,28.63
+132,Losartan Potassium,100 mg Tablet,50.88
+133,Losartan Potassium,50 mg Tablet,40.41
+134,Lovastatin,20 mg Tablet,20.69
+135,Memantine,10 mg Tablet,51.62
+136,Metformin Hydrochloride,250 mg Tablet,24.85
+137,Metformin Hydrochloride,500 mg Tablet,58.39
+138,Metformin Hydrochloride,850 mg Tablet,42.05
+139,Methyldopa,250 mg Tablet,37.95
+140,Mirtazapine,15 mg Oral disintegrating tablet,26.34
+141,Mometasone Furoate,0.05% Nasal spray,22.50
+142,Nifedipine,30 mg Extended-release tablet,71.56
+143,Nifedipine,60 mg Extended-release tablet,84.81
+144,Olanzapine,5mg Oral disintegrating tab,61.93
+145,Oxybutynin Chloride,5 mg Tablet,24.79
+146,Phenobarbitone,10 mg Tablet,44.52
+147,Phenobarbitone,60 mg Tablet,50.81
+148,Phenytoin,125 mg/5 mL Oral suspension,23.01
+149,Phenytoin Sodium,100 mg Capsule,93.22
+150,Phenytoin Sodium,30 mg Capsule,79.97
+151,Prazosin,1 mg Tablet,41.83
+152,Prednisolone,5 mg Tablet,91.37
+153,Probenecid,500 mg Tablet,57.32
+154,Prochlorperazine Maleate,5 mg Tablet,79.09
+155,Propranolol Hydrochloride,10 mg Tablet,74.33
+156,Propranolol Hydrochloride,40 mg Tablet,19.06
+157,Quetiapine,100 mg Tablet,17.49
+158,Quetiapine,25 mg Tablet,49.11
+159,Risedronate Sodium,35 mg Tablet,86.22
+160,Risperidone,1 mg Tablet,96.23
+161,Salbutamol,0.5% Nebulisation solution,79.55
+162,Salbutamol,100 mcg/dose Inhaler,73.90
+163,Salbutamol,2 mg/5 mL Oral liquid,51.10
+164,Salmeterol,25 mcg/dose + fluticasone propionate 125 mcg/dose (Seretide Evohaler) (120 doses),16.29
+165,Salmeterol,25 mcg/dose + fluticasone propionate 250 mcg/dose (Seretide Evohaler) (120 doses),99.46
+166,Salmeterol,25 mcg/dose + fluticasone propionate 50 mcg/dose (Seretide Evohaler) (120 doses),18.26
+167,Salmeterol,50 mcg/dose + fluticasone propionate 100 mcg/dose powder inhaler (Seretide Accuhaler) (60 doses),60.52
+168,Salmeterol,50 mcg/dose + fluticasone propionate 250 mcg/dose powder inhaler (Seretide Accuhaler) (60 doses),92.97
+169,Salmeterol,50 mcg/dose + fluticasone propionate 500 mcg/dose powder inhaler (Seretide Accuhaler) (60 doses),37.87
+170,Sertraline,50 mg Tablet,33.94
+171,Simvastatin,10 mg Tablet,18.87
+172,Simvastatin,20 mg Tablet,14.52
+173,Sitagliptin,100 mg tablet,66.41
+174,Sitagliptin,50 mg tablet,88.53
+175,Sitagliptin,25mg Tablet,39.51
+176,Sodium Bicarbonate,500 mg Capsule,64.59
+177,Sodium Valproate,200 mg Controlled-release tablet,61.05
+178,Sodium Valproate,200 mg Enteric-coated tablet,76.16
+179,Sodium Valproate,200 mg/5 mL Syrup,54.50
+180,Sodium Valproate,300 mg Controlled-release tablet,30.16
+181,Sodium Valproate,500 mg Controlled-release tablet,27.67
+182,Sotalol hydrochloride,80 mg Tablet,54.02
+183,Spironolactone,25 mg Tablet,69.62
+184,Sulfasalazine,500 mg Enteric-coated tablet,57.60
+185,Sulpiride,200 mg Tablet,95.90
+186,Telmisartan,40 mg Tablet,31.76
+187,Telmisartan,80 mg Tablet,99.73
+188,Terazosin,2 mg Tablet,63.64
+189,Terazosin,5 mg Tablet,65.58
+190,Theophylline,125 mg Sustained-release tablet,24.19
+191,Theophylline,250 mg Sustained-release tablet,72.39
+192,Thiamine,3 mg + Riboflavine 1.5 mg + Nicotinamide 10 mg + Pyridoxine 0.5 mg Tablet,42.81
+193,Thiamine Hydrochloride,10 mg Tablet,32.23
+194,Ticlopidine Hydrochloride,250 mg Tablet,84.09
+195,Tolbutamide,500 mg Tablet,80.60
+196,Tolterodine Tartrate,2 mg Tablet,27.50
+197,Tolterodine Tartrate,4 mg Extended-release capsule,51.03
+198,Triamterene,50mg + Hydrochlorothiazide 25mg tablet,10.92
+199,Trifluoperazine,5 mg Tablet,29.25
+200,Umeclidinium,62.5 mcg/dose + vilanterol 25 mcg/dose powder inhaler (30 doses),59.77
+201,Umeclidinium,62.5 mcg/dose Powder inhaler (30 doses),52.24
+202,Urea,10% Cream,38.23
+203,Valsartan,160 mg Tablet,86.34
+204,Valsartan,80 mg Tablet,18.60
+205,Venlafaxine,75 mg Extended-release capsule,77.44
+206,Warfarin Sodium,1 mg Tablet,96.04
+207,Warfarin Sodium,3 mg Tablet,12.41
+208,Warfarin Sodium,5 mg Tablet,10.40
+209,White Soft Paraffin - Ointment,,56.25

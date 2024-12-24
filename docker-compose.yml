@@ -1,0 +1,30 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile-Python
+    ports:
+      - "5000:5000"
+    volumes:
+      - "./Backend:/app"  # Ensure this is correctly pointing to your Python app directory
+
+  webapp:
+    build:
+      context: .
+      dockerfile: Dockerfile-Node
+    ports:
+      - "5173:5173"
+    volumes:
+      - "./polyclinic:/app"  # Ensure this is correctly pointing to your Node app directory
+    environment: 
+      VITE_APP_USE_SQL : "TRUE" 
+
+  server-node:
+    image: node:20
+    working_dir: /usr/src/app  # Set the working directory inside the container
+    command: sh -c "npm install && node src/lib/server.js"
+    ports:
+      - "5001:5001"
+    volumes:
+      - "./polyclinic:/usr/src/app"
+      - /usr/src/app/node_modules # Prevent host's node_modules from being mounted

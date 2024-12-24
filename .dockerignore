@@ -1,0 +1,12 @@
+polyclinic/node_modules
+polyclinic/npm-debug.log
+Dockerfile*
+.dockerignore
+.git
+.gitignore
+.vscode
+polyclinic/.env
+*.lnk
+Thumbs.db
+Desktop.ini
+.DS_Store

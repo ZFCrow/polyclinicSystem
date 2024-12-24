@@ -1,0 +1,100 @@
+condition_id,name,description
+1,Asthma,A respiratory condition causing difficulty in breathing due to inflamed airways.
+2,Anemia,"A condition where the blood lacks enough healthy red blood cells, leading to fatigue and weakness."
+3,Common Cold,"A viral infection of the nose and throat causing a runny nose, sneezing, and cough."
+4,Flu (Influenza),A contagious respiratory illness caused by influenza viruses.
+5,Sinusitis,Inflammation of the sinuses causing headaches and nasal congestion.
+6,Bronchitis,Inflammation of the bronchial tubes leading to cough and mucus production.
+7,Gastroenteritis,"An intestinal infection causing diarrhea, cramps, nausea, and vomiting."
+8,Ear Infection,"An infection in the ear, often causing pain and fever."
+9,Strep Throat,A bacterial infection that causes sore throat and fever.
+10,Conjunctivitis (Pink Eye),"Inflammation of the conjunctiva, leading to redness and discharge from the eye."
+11,Food Poisoning,"Illness caused by consuming contaminated food, leading to nausea, vomiting, and diarrhea."
+12,Allergic Rhinitis,"An allergic reaction causing sneezing, runny nose, and itchy eyes."
+13,Sprains,"Injury to ligaments caused by stretching or tearing, often occurring in the ankle or wrist."
+14,Migraine,"A severe headache often accompanied by nausea, vomiting, and sensitivity to light."
+15,Chickenpox,A highly contagious viral infection causing an itchy rash and red spots.
+16,Fungal Skin Infection,Infections like athlete's foot or ringworm caused by fungi on the skin.
+17,UTI (Urinary Tract Infection),"An infection in the urinary system, causing pain and frequent urination."
+18,Cystitis,"Inflammation of the bladder, often causing pain and a burning sensation during urination."
+19,Hives,"An outbreak of swollen, pale red bumps or plaques on the skin due to an allergic reaction."
+20,RSV (Respiratory Syncytial Virus),"A virus that causes respiratory infections, particularly in infants and young children."
+21,Otitis Media,"Middle ear infection causing earache, fever, and trouble hearing."
+22,Impetigo,"A contagious skin infection that causes red sores, usually on the face."
+23,Scabies,"A skin infestation caused by tiny mites, leading to itching and rash."
+24,Laryngitis,Inflammation of the larynx causing a hoarse voice and sore throat.
+25,Stomach Ulcer,"A sore that develops on the lining of the stomach, causing pain and indigestion."
+26,Dehydration,"A condition caused by the excessive loss of body fluids, leading to weakness and dizziness."
+27,Bacterial Vaginosis,An infection caused by an imbalance of bacteria in the vagina.
+28,Shingles,"A viral infection causing a painful rash, usually on one side of the body."
+29,Cold Sores,Small blisters around the mouth caused by the herpes simplex virus.
+30,"Hand, Foot, and Mouth Disease",A viral illness causing sores in the mouth and rashes on the hands and feet.
+31,Hemorrhoids,Swollen veins in the rectum or anus causing discomfort and bleeding.
+32,Diarrhea,"Frequent loose or watery bowel movements, often caused by infections or food intolerance."
+33,Constipation,"Difficulty in passing stools, often accompanied by abdominal pain."
+34,Psoriasis,"A skin disorder that causes red, scaly patches on the skin."
+35,Bursitis,"Inflammation of the bursa, causing pain in joints such as the shoulder or hip."
+36,Tendonitis,"Inflammation of a tendon, often caused by overuse or injury."
+37,Sinus Headache,"A headache caused by inflamed sinuses, leading to pressure and pain in the face."
+38,Boils,"A painful, pus-filled bump caused by bacterial infection of a hair follicle."
+39,Vertigo,"A sensation of spinning or dizziness, often caused by inner ear problems."
+40,Dandruff,"A condition causing flaking of the scalp, often accompanied by itching."
+41,Chilblains,"Painful, itchy swellings on the skin due to exposure to cold temperatures."
+42,Heat Rash,A skin irritation caused by excessive sweating in hot and humid conditions.
+43,Sore Throat,"Pain or irritation in the throat, often due to viral or bacterial infections."
+44,Ingrown Toenail,"A condition where the edge of the toenail grows into the surrounding skin, causing pain and swelling."
+45,Blisters,"Fluid-filled pockets on the skin, often caused by friction or burns."
+46,Jock Itch,A fungal infection in the groin area causing itching and redness.
+47,Chronic Fatigue Syndrome,A condition characterized by extreme fatigue that doesn't improve with rest.
+48,Irritable Bowel Syndrome,"A common disorder affecting the large intestine, causing cramping, abdominal pain, bloating, gas, and diarrhea."
+49,Rheumatoid Arthritis,"An autoimmune disorder that primarily affects joints, causing pain and inflammation."
+50,Parkinson's Disease,"A disorder of the central nervous system that affects movement, often including tremors."
+51,Narcolepsy,A sleep disorder characterized by excessive daytime sleepiness and sudden attacks of sleep.
+52,Osteoporosis,A condition in which bones become weak and brittle.
+53,Lupus,"An autoimmune disease that can cause inflammation, pain, and damage to various parts of the body."
+54,Celiac Disease,"An immune reaction to eating gluten, a protein found in wheat, barley, and rye."
+55,Hypothyroidism,A condition in which the thyroid gland doesn't produce enough thyroid hormone.
+56,Hyperthyroidism,"An overactive thyroid that leads to accelerated metabolism, weight loss, and rapid heartbeat."
+57,Alzheimer's Disease,A progressive neurological disorder that causes memory loss and cognitive decline.
+58,Multiple Sclerosis,A disease in which the immune system eats away at the protective covering of nerves.
+59,Crohn's Disease,A chronic inflammatory bowel disease that affects the lining of the digestive tract.
+60,Endometriosis,A condition in which tissue similar to the lining of the uterus grows outside the uterus.
+61,Chronic Obstructive Pulmonary Disease,A chronic inflammatory lung disease that obstructs airflow from the lungs.
+62,Hypertension,A condition where the blood pressure in the arteries is persistently elevated.
+63,Epilepsy,"A neurological disorder where brain activity becomes abnormal, causing seizures."
+64,Eczema,"A condition that makes the skin red, inflamed, and itchy."
+65,Scoliosis,A sideways curvature of the spine that occurs most often during the growth spurt before puberty.
+66,Gout,"A form of arthritis characterized by severe pain, redness, and tenderness in joints."
+67,Glaucoma,"A group of eye conditions that damage the optic nerve, leading to vision loss."
+68,Hepatitis B,A serious liver infection caused by the hepatitis B virus.
+69,Mononucleosis,"An infectious illness typically caused by the Epstein-Barr virus, resulting in fever and swollen lymph nodes."
+70,Tonsillitis,"Inflammation of the tonsils, typically due to infection."
+71,Pneumonia,An infection that inflames the air sacs in one or both lungs.
+72,Sciatica,"Pain affecting the back, hip, and outer side of the leg, caused by compression of a spinal nerve root."
+73,Varicose Veins,"Swollen, twisted veins that usually occur in the legs and can cause pain."
+74,Kidney Stones,Hard deposits of minerals and salts that form inside the kidneys.
+75,Ulcerative Colitis,"A chronic, inflammatory bowel disease that causes inflammation and ulcers in the digestive tract."
+76,Cystic Fibrosis,"A hereditary disorder affecting the exocrine glands, causing the production of abnormally thick mucus."
+77,Rosacea,A condition that causes redness and visible blood vessels in the face.
+78,Carpal Tunnel Syndrome,A condition caused by compression of the median nerve as it travels through the wrist at the carpal tunnel.
+79,Lyme Disease,An infectious disease caused by the bacterium Borrelia transmitted by tick bites.
+80,Atrial Fibrillation,A heart condition that causes an irregular and often abnormally fast heart rate.
+81,Cataracts,"A condition in which the lens of the eye becomes progressively opaque, resulting in blurred vision."
+82,Chronic Kidney Disease,A long-term condition where the kidneys do not work effectively.
+83,Dermatitis,A general term that describes inflammation of the skin.
+84,Emphysema,"A lung condition that causes shortness of breath, usually as part of chronic obstructive pulmonary disease."
+85,Gallstones,Hardened deposits of digestive fluid that can form in the gallbladder.
+86,Herpes Zoster,"Also known as shingles, it is a reactivation of the chickenpox virus, causing a painful rash."
+87,Hyperlipidemia,An abnormally high concentration of fats or lipids in the blood.
+88,Macular Degeneration,An eye disease that causes vision loss in the center of the field of vision.
+89,Osteoarthritis,A type of arthritis that occurs when flexible tissue at the ends of bones wears down.
+90,Psoriatic Arthritis,A form of arthritis that affects some people who have psoriasis.
+91,Tinnitus,The perception of noise or ringing in the ears.
+92,Urticaria,"Also known as hives, it is a skin rash triggered by a reaction to food, medicine, or other irritants."
+93,Cholangitis,An inflammation of the bile duct system.
+94,Agrens Syndrome,An autoimmune disease that affects the glands that produce tears and saliva.
+95,Trigeminal Neuralgia,A chronic pain condition that affects the trigeminal nerve in the face.
+96,Wilson's Disease,"A rare inherited disorder that causes copper to accumulate in the liver, brain, and other vital organs."
+97,Ankylosing Spondylitis,An inflammatory disease that can cause the vertebrae to fuse.
+98,Bell's Palsy,A sudden weakness in the muscles on one half of the face.
+99,Duchenne Muscular Dystrophy,A genetic disorder characterized by progressive muscle degeneration and weakness.

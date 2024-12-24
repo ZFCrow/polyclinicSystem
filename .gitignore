@@ -1,0 +1,7 @@
+env
+lapenv
+DataMana
+*.pyc
+*.pyc
+*.pyc
+Backend/python/__pycache__/select_queries.cpython-312.pyc
